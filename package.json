@@ -1,8 +1,8 @@
 {
-  "name": "data-storage",
+  "name": "nodejs-api",
   "version": "0.1.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
@@ -10,7 +10,7 @@
   "author": "Timmy COULPIER",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.19.4"
+    "nodemon": "^2.0.4"
   },
   "dependencies": {
     "cors": "^2.8.5",

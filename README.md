@@ -1,6 +1,6 @@
-# ApiMongoExample
+# ApiMongoExampleDockerized
 
-Description: First Node.js API with Mongo database. It can serve of example for others projects.
+Description: Node.js API Archetype with mongo database. (external db)
 
 ## Used
 
