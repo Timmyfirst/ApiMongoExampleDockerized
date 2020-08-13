@@ -1,4 +1,4 @@
-# ApiMongoExampleDockerized
+# BackApiDockerized
 
 Description: Node.js API Archetype with mongo database. (external db)
 
